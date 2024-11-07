@@ -1,0 +1,1225 @@
+[
+    {
+        "id": 1,
+        "name": "Achat",
+        "meaning": "Achat ist ein heiliger Stein der alten Kulturen und symbolisiert Harmonie und Ausgeglichenheit. Er wird oft zur Förderung innerer Ruhe und der geistigen Klarheit verwendet. Der Stein wird auch für seine Fähigkeit geschätzt, negative Energien zu neutralisieren und das emotionale Gleichgewicht zu stabilisieren.",
+        "properties": "Fördert emotionale Heilung und körperliche Gesundheit, unterstützt das Immunsystem, stabilisiert das emotionale Gleichgewicht.",
+        "color": [
+            "grün",
+            "blau",
+            "braun",
+            "rot",
+            "grau"
+        ],
+        "origin": "Brasilien, Uruguay, Mexiko",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 2,
+        "name": "Adularia",
+        "meaning": "Adularia ist ein Stein der Klarheit und spirituellen Erleuchtung. Sie wird mit Weisheit und göttlicher Intuition in Verbindung gebracht. Der Stein soll auch das Bewusstsein erweitern und dabei helfen, den eigenen inneren Weg zu finden.",
+        "properties": "Fördert geistige Klarheit, stärkt Intuition, unterstützt die spirituelle Entwicklung.",
+        "color": [
+            "weiß",
+            "milchig"
+        ],
+        "origin": "Sri Lanka, Schweiz, Indien",
+        "rarity": "Mäßig selten"
+    },
+    {
+        "id": 3,
+        "name": "Agat",
+        "meaning": "Agat ist bekannt für seine Fähigkeit, das Leben zu stabilisieren und zu harmonisieren. Er wird mit der Förderung von Mut, Kreativität und Erfolg in Verbindung gebracht. In vielen Kulturen gilt Agat als Schutzstein, der negative Einflüsse abwehrt.",
+        "properties": "Fördert Kreativität, schützt vor negativen Energien, bringt innere Ruhe und Stabilität.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Brasilien, Mexiko, Indien",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 4,
+        "name": "Alabaster",
+        "meaning": "Alabaster symbolisiert Reinheit und Frieden. Er wird oft verwendet, um eine beruhigende Atmosphäre zu schaffen und hilft dabei, Stress abzubauen. Alabaster ist auch ein Stein des Vertrauens und der Klarheit.",
+        "properties": "Fördert Ruhe und Frieden, verringert Stress, unterstützt den emotionalen Heilungsprozess.",
+        "color": [
+            "weiß",
+            "grau"
+        ],
+        "origin": "Italien, Ägypten, Mexiko",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 5,
+        "name": "Almandin",
+        "meaning": "Almandin ist ein Stein der Leidenschaft und Energie. Er ist bekannt dafür, die Durchsetzungskraft und den Willen zu stärken, und unterstützt dabei, Ziele zu erreichen. Als Stein der Aktivität bringt er Kraft und Motivation.",
+        "properties": "Stärkt Durchsetzungsvermögen, fördert Energie und Vitalität, unterstützt bei der Zielverwirklichung.",
+        "color": [
+            "rot"
+        ],
+        "origin": "Brasilien, Indien, Afrika",
+        "rarity": "Mäßig selten"
+    },
+    {
+        "id": 6,
+        "name": "Amazonit",
+        "meaning": "Amazonit ist der Stein der Wahrheit und der Kommunikation. Er hilft dabei, das innere Gleichgewicht zu fördern und die Fähigkeit zur Selbstentfaltung zu stärken. Der Stein ist auch bekannt dafür, positive Energien zu fördern und das emotionale Wohlbefinden zu unterstützen.",
+        "properties": "Fördert klare Kommunikation, schützt vor negativer Energie, hilft bei der Selbstentfaltung.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Brasilien, Russland, Bolivien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 7,
+        "name": "Ametrin",
+        "meaning": "Ametrin vereint die Energien von Amethyst und Citrin. Der Stein fördert sowohl spirituelles Wachstum als auch materiellen Erfolg. Ametrin wird als ein Stein des Gleichgewichts angesehen, der Yin und Yang harmonisiert.",
+        "properties": "Fördert geistige Klarheit, unterstützt bei der Zielverwirklichung, bringt Harmonie.",
+        "color": [
+            "lila",
+            "gelb"
+        ],
+        "origin": "Bolivien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 8,
+        "name": "Amethyst",
+        "meaning": "Amethyst ist ein Stein der spirituellen Reinheit und der Meditation. Er hilft dabei, den Geist zu beruhigen und fördert tiefe innere Ruhe. Der Stein wird auch als Schutzstein angesehen und soll vor negativen Einflüssen bewahren.",
+        "properties": "Fördert Meditation, schützt vor negativen Energien, beruhigt den Geist.",
+        "color": [
+            "lila"
+        ],
+        "origin": "Brasilien, Uruguay, Russland",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 9,
+        "name": "Apatit",
+        "meaning": "Apatit ist ein Stein des Wissens und der Inspiration. Er soll dabei helfen, den geistigen Horizont zu erweitern und kreative Ideen zu fördern. Der Stein wird auch zur Stärkung der Intuition und zur Förderung von Klarheit im Denken verwendet.",
+        "properties": "Fördert geistige Klarheit, stärkt die Intuition, regt die Kreativität an.",
+        "color": [
+            "blau",
+            "gelb",
+            "grün"
+        ],
+        "origin": "Madagaskar, Mexiko, Indien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 10,
+        "name": "Asteria",
+        "meaning": "Asteria ist ein Stein, der mit dem Sternenhimmel und dem Universum in Verbindung steht. Er wird als ein Symbol für Inspiration und Veränderung betrachtet und unterstützt dabei, die eigene Bestimmung zu finden. Der Stein soll spirituelle Erleuchtung und Klarheit fördern.",
+        "properties": "Fördert Inspiration, unterstützt die Selbstverwirklichung, hilft bei der spirituellen Entwicklung.",
+        "color": [
+            "golden"
+        ],
+        "origin": "Brasilien",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 11,
+        "name": "Aquamarin",
+        "meaning": "Aquamarin ist ein Stein der Beruhigung und Klarheit. Er wird oft als heilender Kristall für den Geist und die Seele verwendet. Der Stein fördert die Kommunikation und stärkt die Fähigkeit, emotionale Blockaden zu lösen.",
+        "properties": "Fördert die Kommunikation, beruhigt den Geist, hilft bei der Auflösung emotionaler Blockaden.",
+        "color": [
+            "hellblau",
+            "blaugrün"
+        ],
+        "origin": "Brasilien, Sri Lanka, Madagaskar",
+        "rarity": "Selten"
+    },
+    {
+        "id": 12,
+        "name": "Azurit",
+        "meaning": "Azurit ist ein Stein der spirituellen Erhebung und Klarheit. Er hilft dabei, das geistige Bewusstsein zu erweitern und intuitives Wissen zu fördern. Azurit wird oft für seine beruhigenden und heilenden Eigenschaften geschätzt.",
+        "properties": "Erweitert das geistige Bewusstsein, stärkt Intuition und Weisheit, beruhigt den Geist.",
+        "color": [
+            "grün",
+            "blau"
+        ],
+        "origin": "Marokko, Mexiko, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 13,
+        "name": "Barit",
+        "meaning": "Barit ist ein Stein der Erdung und Stabilität. Er hilft dabei, den Körper mit der Erde zu verbinden und bietet Schutz vor negativen Energien. Barit wird auch genutzt, um Klarheit in schwierigen Situationen zu finden.",
+        "properties": "Bietet Schutz, fördert Erdung, hilft bei der Lösung von Konflikten.",
+        "color": [
+            "weiß",
+            "gelb"
+        ],
+        "origin": "Brasilien, Marokko, Mexiko",
+        "rarity": "Mäßig selten"
+    },
+    {
+        "id": 14,
+        "name": "Beryll",
+        "meaning": "Beryll ist ein Stein der Klarheit und Harmonie. Er wird mit der Förderung von Mut und innerer Ruhe in Verbindung gebracht. Der Stein soll dabei helfen, klare Entscheidungen zu treffen und das eigene Leben zu transformieren.",
+        "properties": "Fördert klare Entscheidungen, stärkt den inneren Frieden, bringt Harmonie.",
+        "color": [
+            "blau",
+            "grün",
+            "pink",
+            "gold",
+            "weiß"
+        ],
+        "origin": "Brasilien, Kolumbien, Afghanistan",
+        "rarity": "Selten"
+    },
+    {
+        "id": 15,
+        "name": "Bixbit",
+        "meaning": "Bixbit ist ein seltener, roter Edelstein, der als Symbol für Leidenschaft und Energie gilt. Er hilft dabei, Lebensziele zu verfolgen und die innere Kraft zu stärken. Der Stein wird auch für seine Fähigkeit geschätzt, körperliche und geistige Blockaden zu lösen.",
+        "properties": "Fördert Leidenschaft und Energie, stärkt die innere Kraft, löst Blockaden.",
+        "color": [
+            "rot"
+        ],
+        "origin": "USA",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 16,
+        "name": "Blauquarz",
+        "meaning": "Blauquarz ist ein Stein der inneren Ruhe und des Friedens. Er hilft dabei, den Geist zu beruhigen und negative Gedanken loszulassen. Blauquarz wird auch zur Förderung der kreativen Energie und des mentalen Gleichgewichts eingesetzt.",
+        "properties": "Fördert geistige Klarheit und Ruhe, unterstützt die Kreativität, löst negative Gedanken.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Brasilien, USA, Indien",
+        "rarity": "Mäßig selten"
+    },
+    {
+        "id": 17,
+        "name": "Blutstein (Hämatit)",
+        "meaning": "Blutstein ist ein kraftvoller Stein, der mit Vitalität und Erneuerung verbunden wird. Er hilft dabei, die Lebensenergie zu steigern und das Selbstvertrauen zu stärken. Hämatit wird auch als Schutzstein betrachtet, der negative Energien abwehrt.",
+        "properties": "Steigert Energie und Vitalität, stärkt das Selbstvertrauen, schützt vor negativen Energien.",
+        "color": [
+            "silberfarben",
+            "rot"
+        ],
+        "origin": "Brasilien, Indien, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 18,
+        "name": "Blautopas",
+        "meaning": "Blautopas ist ein Stein der inneren Ruhe und Klarheit. Er wird als Symbol für Weisheit und Intuition betrachtet und hilft dabei, die Gedanken zu ordnen. Der Stein unterstützt bei der Entwicklung von Geduld und Ausdauer.",
+        "properties": "Fördert Weisheit und Intuition, unterstützt Geduld und Ausdauer, hilft bei der inneren Klarheit.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Brasilien, Sri Lanka, Zimbabwe",
+        "rarity": "Selten"
+    },
+    {
+        "id": 19,
+        "name": "Bronzit",
+        "meaning": "Bronzit ist ein Stein der Erdung und Stabilität. Er hilft dabei, in schwierigen Situationen ruhig und gelassen zu bleiben. Bronzit wird auch zur Förderung der Ausdauer und der Durchhaltefähigkeit eingesetzt.",
+        "properties": "Fördert Erdung, unterstützt Ausdauer und Durchhaltevermögen, hilft, in Stresssituationen ruhig zu bleiben.",
+        "color": [
+            "bronzefarben"
+        ],
+        "origin": "Brasilien, Südafrika, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 20,
+        "name": "Brucit",
+        "meaning": "Brucit wird oft als Stein des Wissens und der Klarheit bezeichnet. Er hilft dabei, die eigene innere Weisheit zu entdecken und das Verständnis für die Welt zu erweitern. Der Stein soll auch emotionale Blockaden lösen und Heilung auf allen Ebenen fördern.",
+        "properties": "Fördert inneres Wissen und Weisheit, löst emotionale Blockaden, unterstützt Heilung auf allen Ebenen.",
+        "color": [
+            "weiß",
+            "blau"
+        ],
+        "origin": "Afghanistan, Russland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 21,
+        "name": "Calcit",
+        "meaning": "Calcit ist ein vielseitiger Stein, der mit vielen positiven Eigenschaften verbunden ist. Er fördert die Heilung, verbessert die geistige Klarheit und stärkt das Immunsystem. Der Stein unterstützt auch das emotionale Gleichgewicht und die Verarbeitung von emotionalen Traumata.",
+        "properties": "Fördert Heilung und geistige Klarheit, stärkt das Immunsystem, hilft bei emotionaler Verarbeitung.",
+        "color": [
+            "weiß",
+            "blau",
+            "grün",
+            "rosa",
+            "orange"
+        ],
+        "origin": "Mexiko, Marokko, Irland",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 22,
+        "name": "Carnelian",
+        "meaning": "Carnelian ist ein Stein der Energie und Vitalität. Er wird oft zur Förderung von Kreativität, Motivation und Selbstbewusstsein verwendet. Carnelian hilft auch dabei, negative Emotionen wie Angst und Wut zu transformieren.",
+        "properties": "Steigert Energie und Vitalität, fördert Kreativität und Motivation, hilft bei der Transformation von negativen Emotionen.",
+        "color": [
+            "orange",
+            "rot"
+        ],
+        "origin": "Brasilien, Indien, Uruguai",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 23,
+        "name": "Celestin",
+        "meaning": "Celestin ist ein Stein der Kommunikation und des spirituellen Wachstums. Er wird oft verwendet, um den Zugang zu höheren Bewusstseinsebenen zu erleichtern und die Intuition zu stärken. Der Stein fördert Frieden und innere Ruhe.",
+        "properties": "Fördert Kommunikation und spirituelles Wachstum, stärkt die Intuition, bringt Frieden und Ruhe.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Madagaskar, USA, Mexiko",
+        "rarity": "Selten"
+    },
+    {
+        "id": 24,
+        "name": "Chalcedon",
+        "meaning": "Chalcedon ist ein Stein der Ruhe und des friedlichen Ausdrucks. Er hilft dabei, Kommunikation zu fördern und Missverständnisse zu vermeiden. Der Stein unterstützt auch emotionale Heilung und bringt Frieden in schwierige Beziehungen.",
+        "properties": "Fördert Kommunikation und Verständnis, hilft bei emotionaler Heilung, bringt Frieden in Beziehungen.",
+        "color": [
+            "blau",
+            "rosarot",
+            "weiß",
+            "grau"
+        ],
+        "origin": "Brasilien, USA, Mexiko",
+        "rarity": "Mäßig selten"
+    },
+    {
+        "id": 25,
+        "name": "Chlorit",
+        "meaning": "Chlorit ist ein Stein der Heilung und der Reinigung. Er hilft dabei, energetische Blockaden zu lösen und negative Energien zu vertreiben. Der Stein wird auch verwendet, um das körperliche und geistige Wohlbefinden zu steigern.",
+        "properties": "Reinigt und heilt, löst energetische Blockaden, unterstützt das körperliche und geistige Wohlbefinden.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Brasilien, Russland, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 26,
+        "name": "Chrysoberyll",
+        "meaning": "Chrysoberyll ist ein Stein der Weisheit und des klaren Denkens. Er fördert die Selbstverwirklichung und den Erfolg im Leben. Der Stein hilft dabei, das eigene Potenzial zu erkennen und persönliche Ziele zu erreichen.",
+        "properties": "Fördert Weisheit und klares Denken, unterstützt bei der Selbstverwirklichung, hilft bei der Zielverwirklichung.",
+        "color": [
+            "gelb",
+            "grün",
+            "braun"
+        ],
+        "origin": "Brasilien, Sri Lanka, Myanmar",
+        "rarity": "Selten"
+    },
+    {
+        "id": 27,
+        "name": "Chrysoprase",
+        "meaning": "Chrysoprase ist ein Stein der Liebe und des Mitgefühls. Er hilft dabei, emotionale Blockaden zu lösen und fördert das Gefühl der inneren Zufriedenheit. Chrysoprase soll auch bei der Heilung von Ängsten und Depressionen unterstützen.",
+        "properties": "Fördert Liebe und Mitgefühl, löst emotionale Blockaden, hilft bei der Heilung von Ängsten.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Australien, Brasilien, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 28,
+        "name": "Cinnabar",
+        "meaning": "Cinnabar ist ein Stein der Transformation und des Wohlstands. Er wird oft verwendet, um finanzielle Fülle und persönlichen Erfolg zu fördern. Der Stein unterstützt dabei, die eigenen Ziele mit Leidenschaft und Entschlossenheit zu verfolgen.",
+        "properties": "Fördert Wohlstand und Erfolg, hilft bei der Verwirklichung von Zielen, steigert die Leidenschaft.",
+        "color": [
+            "rot"
+        ],
+        "origin": "China, Spanien, Mexiko",
+        "rarity": "Selten"
+    },
+    {
+        "id": 29,
+        "name": "Corundum",
+        "meaning": "Corundum ist der Rohstein des Saphirs und Rubins. Er fördert Klarheit und geistige Schärfe und stärkt die spirituelle Wahrnehmung. Corundum wird auch genutzt, um das innere Gleichgewicht und die innere Stärke zu fördern.",
+        "properties": "Fördert Klarheit und geistige Schärfe, stärkt die spirituelle Wahrnehmung, hilft beim Finden innerer Stärke.",
+        "color": [
+            "blau",
+            "rot",
+            "gelb"
+        ],
+        "origin": "Sri Lanka, Myanmar, Indien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 30,
+        "name": "Cuprit",
+        "meaning": "Cuprit ist ein Stein der emotionalen Heilung. Er hilft dabei, verborgene emotionale Blockaden zu erkennen und zu lösen. Cuprit fördert die Entschlossenheit und die Fähigkeit, Veränderungen anzunehmen.",
+        "properties": "Hilft bei der emotionalen Heilung, löst Blockaden, fördert Entschlossenheit.",
+        "color": [
+            "rot"
+        ],
+        "origin": "Zambia, Mexiko, Australien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 31,
+        "name": "Dahlit",
+        "meaning": "Dahlit ist ein seltener Stein, der mit der Entwicklung von intuitiven Fähigkeiten und spirituellem Wachstum in Verbindung gebracht wird. Er wird genutzt, um Klarheit in schwierigen Situationen zu fördern und das Bewusstsein zu erweitern.",
+        "properties": "Fördert spirituelles Wachstum, stärkt die Intuition, erweitert das Bewusstsein.",
+        "color": [
+            "gelb"
+        ],
+        "origin": "Indien, Russland",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 32,
+        "name": "Dendritischer Jaspis",
+        "meaning": "Dendritischer Jaspis ist ein Stein der Erdung und Stabilität. Er hilft dabei, sich in der Natur und im Leben verwurzelt zu fühlen und unterstützt bei der Lösung von Konflikten. Der Stein ist auch mit Heilung und Wohlstand verbunden.",
+        "properties": "Fördert Erdung, hilft bei der Lösung von Konflikten, unterstützt Heilung und Wohlstand.",
+        "color": [
+            "grün",
+            "braun"
+        ],
+        "origin": "USA, Indien, Brasilien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 33,
+        "name": "Diopsid",
+        "meaning": "Diopsid ist ein Stein der Harmonie und des Ausgleichs. Er hilft dabei, innere Ruhe zu finden und emotionale Blockaden zu lösen. Der Stein fördert das Verständnis und die Balance zwischen den verschiedenen Aspekten des Lebens.",
+        "properties": "Fördert Harmonie und Ausgleich, löst emotionale Blockaden, unterstützt das Finden von innerer Ruhe.",
+        "color": [
+            "grün",
+            "violett"
+        ],
+        "origin": "Sibirien, Brasilien, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 34,
+        "name": "Dumortierit",
+        "meaning": "Dumortierit ist ein Stein der Intuition und Klarheit. Er wird verwendet, um das eigene Wissen und die Weisheit zu erweitern und die Wahrnehmung zu schärfen. Der Stein unterstützt auch bei der Entwicklung von Geduld und Ausdauer.",
+        "properties": "Fördert Intuition und Klarheit, hilft bei der Erweiterung von Wissen, unterstützt Geduld.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Brasilien, Frankreich, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 35,
+        "name": "Edelopal",
+        "meaning": "Edelopal ist ein Stein der Veränderung und der Transformation. Er hilft dabei, blockierte Energien zu lösen und eine neue Perspektive auf das Leben zu gewinnen. Edelopal fördert die Entwicklung von Kreativität und Selbstbewusstsein.",
+        "properties": "Fördert Kreativität und Selbstbewusstsein, hilft bei der Transformation, löst blockierte Energien.",
+        "color": [
+            "weiß"
+        ],
+        "origin": "Australien, Mexiko, Äthiopien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 36,
+        "name": "Epidot",
+        "meaning": "Epidot ist ein Stein der Heilung und des Wachstums. Er hilft dabei, negative Energien zu vertreiben und emotionale Blockaden zu lösen. Epidot fördert auch das geistige und körperliche Wachstum, besonders in schwierigen Zeiten.",
+        "properties": "Fördert Heilung, hilft bei der Lösung von Blockaden, unterstützt Wachstum auf allen Ebenen.",
+        "color": [
+            "grün",
+            "gelb"
+        ],
+        "origin": "Brasilien, USA, Russland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 37,
+        "name": "Fadenquarz",
+        "meaning": "Fadenquarz wird oft mit Klarheit und Reinheit in Verbindung gebracht. Er hilft dabei, die Gedanken zu ordnen und innere Blockaden zu lösen. Der Stein unterstützt auch die geistige Stärke und fördert die Kommunikation.",
+        "properties": "Fördert Klarheit und Reinheit, hilft bei der geistigen Stärke, unterstützt die Kommunikation.",
+        "color": [
+            "weiß"
+        ],
+        "origin": "Brasilien, Russland, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 38,
+        "name": "Feueropal",
+        "meaning": "Feueropal ist ein Stein der Leidenschaft und Kreativität. Er wird genutzt, um emotionale Blockaden zu lösen und die eigene Kreativität zu entfachen. Feueropal fördert Selbstbewusstsein und Mut, um neue Wege zu gehen.",
+        "properties": "Fördert Leidenschaft und Kreativität, löst emotionale Blockaden, steigert Selbstbewusstsein.",
+        "color": [
+            "rot"
+        ],
+        "origin": "Mexiko, Brasilien, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 39,
+        "name": "Feldspat",
+        "meaning": "Feldspat ist ein Stein der Klarheit und des Wandels. Er hilft dabei, neue Perspektiven zu gewinnen und die eigenen Fähigkeiten zu erkennen. Feldspat fördert die kreative Problemlösung und den geistigen Fortschritt.",
+        "properties": "Fördert Klarheit und kreative Problemlösungen, hilft beim Erkennen der eigenen Fähigkeiten, unterstützt geistigen Fortschritt.",
+        "color": [
+            "Labradoritartig",
+            "Mikroklin",
+            "Oligoklas",
+            "Albit"
+        ],
+        "origin": "Kanada, USA, Indien",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 40,
+        "name": "Fluorapatit",
+        "meaning": "Fluorapatit ist ein Stein der Verjüngung und der energetischen Heilung. Er hilft dabei, negative Energien zu transformieren und das eigene spirituelle Wachstum zu fördern. Fluorapatit unterstützt bei der Entwicklung von Intuition und geistiger Klarheit.",
+        "properties": "Fördert energetische Heilung, unterstützt spirituelles Wachstum, hilft bei der Entwicklung von Intuition und Klarheit.",
+        "color": [
+            "grün",
+            "blau"
+        ],
+        "origin": "Brasilien, Marokko, Mexiko",
+        "rarity": "Selten"
+    },
+    {
+        "id": 41,
+        "name": "Fluorit",
+        "meaning": "Fluorit ist ein Stein der Klarheit und der geistigen Erneuerung. Er hilft dabei, die Gedanken zu ordnen und das Bewusstsein zu erweitern. Fluorit fördert auch die Heilung auf allen Ebenen und schützt vor negativen Energien.",
+        "properties": "Fördert Klarheit und geistige Erneuerung, hilft bei der Heilung, schützt vor negativen Energien.",
+        "color": [
+            "grün",
+            "blau",
+            "violett",
+            "gelb",
+            "lila",
+            "klar"
+        ],
+        "origin": "China, Mexiko, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 42,
+        "name": "Gagat",
+        "meaning": "Gagat ist ein Stein der Erdung und des Schutzes. Er wird genutzt, um negative Energien abzuwehren und das eigene Energiefeld zu stabilisieren. Gagat hilft auch dabei, in stressigen Zeiten Ruhe und Klarheit zu bewahren.",
+        "properties": "Fördert Erdung und Schutz, stabilisiert das Energiefeld, hilft bei der Aufrechterhaltung von Ruhe und Klarheit.",
+        "color": [
+            "schwarz"
+        ],
+        "origin": "Türkei, Großbritannien, Frankreich",
+        "rarity": "Selten"
+    },
+    {
+        "id": 43,
+        "name": "Garnet",
+        "meaning": "Garnet ist ein Stein der Vitalität und der Wiederbelebung. Er hilft dabei, das eigene Leben zu harmonisieren und neue Energie zu schöpfen. Garnet fördert auch das emotionale Gleichgewicht und stärkt das Selbstvertrauen.",
+        "properties": "Fördert Vitalität und Energie, hilft bei der Harmonisierung des Lebens, stärkt das Selbstvertrauen.",
+        "color": [
+            "grün",
+            "rot"
+        ],
+        "origin": "Indien, Brasilien, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 44,
+        "name": "Geoden",
+        "meaning": "Geoden sind Kristallhöhlen, die für ihre energetischen Heilkräfte bekannt sind. Sie fördern das spirituelle Wachstum und helfen dabei, inneren Frieden zu finden. Geoden unterstützen auch die Reinigung und das Ausgleichen von Energien.",
+        "properties": "Fördert spirituelles Wachstum, hilft bei der Reinigung und dem Ausgleichen von Energien, bringt inneren Frieden.",
+        "color": [
+            "verschiedene Kristalle"
+        ],
+        "origin": "Brasilien, Marokko, Mexiko",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 45,
+        "name": "Golden Beryl",
+        "meaning": "Golden Beryl ist ein Stein des Wohlstands und der Fülle. Er wird genutzt, um Erfolg und Reichtum in das Leben zu ziehen. Der Stein fördert auch geistige Klarheit und emotionale Ausgeglichenheit.",
+        "properties": "Fördert Wohlstand und Fülle, unterstützt bei der Erreichung von Zielen, hilft bei der geistigen Klarheit.",
+        "color": [
+            "gelb"
+        ],
+        "origin": "Brasilien, Kolumbien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 46,
+        "name": "Gaspeit",
+        "meaning": "Gaspeit ist ein seltener Stein, der mit spirituellem Wachstum und Transformation in Verbindung gebracht wird. Er hilft dabei, Blockaden zu überwinden und Klarheit in emotionalen und mentalen Bereichen zu finden.",
+        "properties": "Fördert spirituelles Wachstum und Transformation, hilft bei der Überwindung von Blockaden, bringt Klarheit.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Kanada",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 47,
+        "name": "Heliotrop",
+        "meaning": "Heliotrop, auch bekannt als Blutstein, ist ein Stein der Vitalität und des Schutzes. Er wird oft verwendet, um das Immunsystem zu stärken und die Lebensenergie zu steigern. Heliotrop hilft auch dabei, emotionale Stabilität zu fördern.",
+        "properties": "Stärkt das Immunsystem, fördert Vitalität und Lebensenergie, hilft bei emotionaler Stabilität.",
+        "color": [
+            "grün",
+            "rot"
+        ],
+        "origin": "Indien, Brasilien, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 48,
+        "name": "Howlith",
+        "meaning": "Howlith ist ein Stein des Geduld und der Ruhe. Er hilft dabei, innere Spannungen abzubauen und emotionale Blockaden zu lösen. Howlith fördert auch eine tiefe, beruhigende Meditation.",
+        "properties": "Fördert Geduld und Ruhe, hilft bei der Auflösung von Blockaden, unterstützt bei Meditation.",
+        "color": [
+            "weiß"
+        ],
+        "origin": "USA, Kanada",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 49,
+        "name": "Hypersthene",
+        "meaning": "Hypersthene ist ein Stein der inneren Stärke und des Selbstvertrauens. Er hilft dabei, das eigene Potenzial zu erkennen und die eigene Macht zu entfalten. Hypersthene fördert auch das geistige Wachstum und die spirituelle Wahrnehmung.",
+        "properties": "Fördert innere Stärke und Selbstvertrauen, hilft beim Erkennen des eigenen Potentials, stärkt das geistige Wachstum.",
+        "color": [
+            "dunkelgrau",
+            "braun"
+        ],
+        "origin": "Kanada, Australien, Indien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 50,
+        "name": "Iolith",
+        "meaning": "Iolith wird oft als der Stein der Vision bezeichnet, da er die Fähigkeit zur spirituellen Wahrnehmung fördert. Er hilft dabei, Klarheit im Leben zu finden und Entscheidungen mit Weisheit zu treffen. Iolith soll auch das emotionale Gleichgewicht unterstützen.",
+        "properties": "Fördert spirituelle Wahrnehmung und Visionen, hilft bei Entscheidungen, unterstützt emotionales Gleichgewicht.",
+        "color": [
+            "lavendel",
+            "blau",
+            "violett"
+        ],
+        "origin": "Sri Lanka, Brasilien, Indien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 51,
+        "name": "Jade",
+        "meaning": "Jade ist ein Stein der Harmonie und des Friedens. Er wird mit Glück und Wohlstand assoziiert und fördert das innere Gleichgewicht. Jade ist auch bekannt dafür, den Körper zu heilen und das allgemeine Wohlbefinden zu steigern.",
+        "properties": "Fördert Harmonie und Frieden, unterstützt Glück und Wohlstand, heilt den Körper und fördert Wohlbefinden.",
+        "color": [
+            "grün",
+            "weiß",
+            "schwarz"
+        ],
+        "origin": "China, Guatemala, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 52,
+        "name": "Jadeit",
+        "meaning": "Jadeit ist ein besonders wertvoller Edelstein, der für seine heilenden Eigenschaften bekannt ist. Er fördert die Harmonie in Beziehungen und bringt Wohlstand. Jadeit wird auch verwendet, um den Geist zu beruhigen und emotionale Blockaden zu lösen.",
+        "properties": "Fördert Harmonie in Beziehungen, bringt Wohlstand, beruhigt den Geist und löst emotionale Blockaden.",
+        "color": [
+            "grün",
+            "weiß"
+        ],
+        "origin": "Myanmar, Guatemala, Japan",
+        "rarity": "Selten"
+    },
+    {
+        "id": 53,
+        "name": "Jaspis",
+        "meaning": "Jaspis ist ein Stein der Stabilität und Erdung. Er hilft dabei, den Körper und Geist zu stärken und fördert das Wohlbefinden. Jaspis wird verwendet, um emotionale Blockaden zu lösen und neue Energie zu schöpfen.",
+        "properties": "Fördert Stabilität und Erdung, stärkt Körper und Geist, hilft bei der Lösung emotionaler Blockaden.",
+        "color": [
+            "blutrot",
+            "braun",
+            "gelb",
+            "grün",
+            "rot",
+            "Mookait",
+            "dalmatiner",
+            "Herz-Jaspis"
+        ],
+        "origin": "Brasilien, Indien, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 54,
+        "name": "Kaiserstein",
+        "meaning": "Kaiserstein ist ein Stein der Stärke und des Mutes. Er hilft dabei, Hindernisse zu überwinden und die eigene Kraft zu erkennen. Kaiserstein fördert auch die Selbstbeherrschung und das innere Gleichgewicht.",
+        "properties": "Fördert Stärke und Mut, hilft beim Überwinden von Hindernissen, unterstützt Selbstbeherrschung und Gleichgewicht.",
+        "color": [
+            "blau",
+            "grün"
+        ],
+        "origin": "Deutschland, Schweiz",
+        "rarity": "Selten"
+    },
+    {
+        "id": 55,
+        "name": "Karneol",
+        "meaning": "Karneol ist ein Stein der Energie und Vitalität. Er wird verwendet, um die Lebensfreude zu steigern und die Kreativität zu fördern. Karneol hilft auch dabei, die eigenen Ziele zu verfolgen und emotionale Blockaden zu lösen.",
+        "properties": "Fördert Energie und Vitalität, steigert Lebensfreude und Kreativität, hilft bei der Verwirklichung von Zielen.",
+        "color": [
+            "orange",
+            "rot"
+        ],
+        "origin": "Indien, Brasilien, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 56,
+        "name": "Kalcit",
+        "meaning": "Kalcit ist ein vielseitiger Stein, der für seine heilenden und beruhigenden Eigenschaften bekannt ist. Er wird oft genutzt, um emotionale Blockaden zu lösen und das geistige Gleichgewicht zu fördern. Kalzit unterstützt die innere Klarheit und stärkt die Lebensenergie.",
+        "properties": "Fördert Heilung und Beruhigung, löst emotionale Blockaden, unterstützt geistige Klarheit.",
+        "color": [
+            "weiß",
+            "blau"
+        ],
+        "origin": "Mexiko, USA, Kanada",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 57,
+        "name": "Kyanit",
+        "meaning": "Kyanit ist ein Stein, der für seine Fähigkeit bekannt ist, das energetische Gleichgewicht wiederherzustellen. Er wird oft verwendet, um den Geist zu klären und die Kommunikation zu fördern. Kyanit hilft, die Intuition zu stärken und die geistige Klarheit zu erhöhen.",
+        "properties": "Fördert energetisches Gleichgewicht, klärt den Geist, unterstützt Kommunikation und Intuition.",
+        "color": [
+            "blau",
+            "weiß"
+        ],
+        "origin": "Brasilien, Schweiz, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 58,
+        "name": "Kunzit",
+        "meaning": "Kunzit ist ein Stein der Liebe und des Mitgefühls. Er wird genutzt, um emotionale Heilung zu fördern und das Herzchakra zu öffnen. Kunzit hilft, negative Gedanken und Gefühle zu transformieren und fördert ein Gefühl der inneren Ruhe und Harmonie.",
+        "properties": "Fördert Liebe und Mitgefühl, unterstützt emotionale Heilung, öffnet das Herzchakra.",
+        "color": [
+            "rosa",
+            "lila"
+        ],
+        "origin": "USA, Brasilien, Afghanistan",
+        "rarity": "Selten"
+    },
+    {
+        "id": 59,
+        "name": "Labradorit",
+        "meaning": "Labradorit ist ein Stein der Magie und Transformation. Er fördert die spirituelle Wahrnehmung und hilft dabei, verborgene Potenziale zu entdecken. Labradorit ist auch ein starker Schutzstein, der das Energiesystem vor negativen Einflüssen schützt.",
+        "properties": "Fördert spirituelle Wahrnehmung und Transformation, schützt vor negativen Energien, hilft bei der Entdeckung von Potenzialen.",
+        "color": [
+            "blau",
+            "grau",
+            "grün"
+        ],
+        "origin": "Kanada, Madagaskar, Finnland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 60,
+        "name": "Lapis Lazuli",
+        "meaning": "Lapis Lazuli ist ein Stein der Weisheit und spirituellen Klarheit. Er fördert die Kommunikation und die Ausdruckskraft, besonders im spirituellen Bereich. Lapis Lazuli unterstützt bei der Suche nach Wahrheit und fördert das Selbstbewusstsein.",
+        "properties": "Fördert Weisheit und spirituelle Klarheit, unterstützt die Kommunikation, hilft bei der Suche nach Wahrheit.",
+        "color": [
+            "dunkelblau",
+            "hellblau"
+        ],
+        "origin": "Afghanistan, Chile, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 61,
+        "name": "Larimar",
+        "meaning": "Larimar ist ein Stein der Heilung und des Friedens. Er wird verwendet, um emotionale Blockaden zu lösen und das Herzchakra zu öffnen. Larimar hilft, das innere Gleichgewicht wiederherzustellen und das Bewusstsein zu erweitern.",
+        "properties": "Fördert Heilung und Frieden, öffnet das Herzchakra, unterstützt emotionales Gleichgewicht.",
+        "color": [
+            "blau"
+        ],
+        "origin": "Dominikanische Republik",
+        "rarity": "Selten"
+    },
+    {
+        "id": 62,
+        "name": "Lepidolith",
+        "meaning": "Lepidolith ist ein Stein des emotionalen Gleichgewichts und der inneren Ruhe. Er wird genutzt, um Stress und Ängste zu lindern und das geistige Wohlbefinden zu fördern. Lepidolith hilft dabei, negative Gedanken zu transformieren und emotionale Blockaden zu lösen.",
+        "properties": "Lindert Stress und Ängste, fördert emotionales Gleichgewicht und innere Ruhe, hilft bei der Transformation negativer Gedanken.",
+        "color": [
+            "rosa",
+            "violett"
+        ],
+        "origin": "Brasilien, Russland, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 63,
+        "name": "Malachit",
+        "meaning": "Malachit ist ein Stein der Transformation und Heilung. Er wird verwendet, um emotionale Blockaden zu lösen und das Herzchakra zu öffnen. Malachit fördert die Heilung auf allen Ebenen und stärkt die Intuition.",
+        "properties": "Fördert Transformation und Heilung, öffnet das Herzchakra, stärkt die Intuition.",
+        "color": [
+            "grün",
+            "dunkelgrün"
+        ],
+        "origin": "Zaire, Südafrika, Chile",
+        "rarity": "Selten"
+    },
+    {
+        "id": 64,
+        "name": "Manganit",
+        "meaning": "Manganit ist ein Stein der inneren Stärke und des Schutzes. Er wird genutzt, um negative Energien abzuwehren und das energetische Gleichgewicht zu fördern. Manganit unterstützt auch bei der Heilung von emotionalen und körperlichen Blockaden.",
+        "properties": "Schützt vor negativen Energien, fördert inneres Gleichgewicht, hilft bei der Heilung von Blockaden.",
+        "color": [
+            "schwarz"
+        ],
+        "origin": "Brasilien, USA, Australien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 65,
+        "name": "Mikroklin",
+        "meaning": "Mikroklin ist ein Stein, der für seine beruhigenden und stabilisierenden Eigenschaften bekannt ist. Er wird genutzt, um Stress abzubauen und das emotionale Gleichgewicht wiederherzustellen. Mikroklin hilft auch bei der Förderung der geistigen Klarheit.",
+        "properties": "Beruhigt und stabilisiert, hilft beim Abbau von Stress, fördert geistige Klarheit.",
+        "color": [
+            "weiß"
+        ],
+        "origin": "USA, Kanada, Russland",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 66,
+        "name": "Moldavit",
+        "meaning": "Moldavit ist ein Stein der Transformation und spirituellen Erhebung. Er ist ein sehr kraftvoller Meteorit, der in Verbindung mit der Erde und dem Universum steht. Moldavit hilft, den spirituellen Weg zu erleuchten und fördert außergewöhnliche geistige Einsichten.",
+        "properties": "Fördert spirituelle Erhebung, hilft bei der Transformation, verstärkt geistige Einsichten.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Tschechische Republik, Deutschland",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 67,
+        "name": "Morganit",
+        "meaning": "Morganit ist ein Stein der Liebe und des Mitgefühls. Er wird genutzt, um das Herzchakra zu öffnen und emotionale Heilung zu fördern. Morganit hilft, eine tiefe Verbindung mit sich selbst und anderen herzustellen.",
+        "properties": "Fördert Liebe und Mitgefühl, öffnet das Herzchakra, unterstützt emotionale Heilung.",
+        "color": [
+            "rosa"
+        ],
+        "origin": "Afghanistan, Brasilien, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 68,
+        "name": "Mookaite",
+        "meaning": "Mookaite ist ein Stein der Erdung und Stabilität. Er hilft dabei, eine Verbindung zur Erde zu schaffen und das emotionale Gleichgewicht zu fördern. Mookaite unterstützt Entscheidungen und hilft, die eigene Richtung im Leben zu finden.",
+        "properties": "Fördert Erdung und Stabilität, unterstützt bei Entscheidungen, hilft bei der Suche nach Lebensrichtung.",
+        "color": [
+            "braun",
+            "rot",
+            "gelb"
+        ],
+        "origin": "Australien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 69,
+        "name": "Nachtblauer Topas",
+        "meaning": "Nachtblauer Topas ist ein Stein der Klarheit und des inneren Friedens. Er wird verwendet, um das Bewusstsein zu erweitern und das emotionale Gleichgewicht zu fördern. Nachtblauer Topas hilft dabei, eine tiefe spirituelle Verbindung aufzubauen.",
+        "properties": "Fördert Klarheit und inneren Frieden, erweitert das Bewusstsein, unterstützt spirituelle Verbindungen.",
+        "color": [
+            "dunkelblau"
+        ],
+        "origin": "Brasilien, Mexiko",
+        "rarity": "Selten"
+    },
+    {
+        "id": 70,
+        "name": "Nephrit",
+        "meaning": "Nephrit ist ein Stein der Heilung und des Schutzes. Er fördert das allgemeine Wohlbefinden und schützt vor negativen Energien. Nephrit stärkt auch die Nieren und das Immunsystem.",
+        "properties": "Fördert Heilung und Wohlbefinden, schützt vor negativen Energien, stärkt Nieren und Immunsystem.",
+        "color": [
+            "grün"
+        ],
+        "origin": "China, Kanada, USA",
+        "rarity": "Selten"
+    },
+    {
+        "id": 71,
+        "name": "Nefrit",
+        "meaning": "Nefrit ist ein Stein, der den Körper und Geist stärkt. Er wird verwendet, um das emotionale Gleichgewicht wiederherzustellen und das Herzchakra zu öffnen. Nefrit hilft, innere Blockaden zu lösen und das Wohlbefinden zu fördern.",
+        "properties": "Stärkt Körper und Geist, fördert emotionales Gleichgewicht, öffnet das Herzchakra.",
+        "color": [
+            "grün"
+        ],
+        "origin": "China, Neuseeland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 72,
+        "name": "Obsidian",
+        "meaning": "Obsidian ist ein kraftvoller Schutzstein, der negative Energien absorbiert und den Träger vor schädlichen Einflüssen schützt. Er fördert auch die Selbstreflexion und hilft dabei, verborgene Ängste und Blockaden zu erkennen und zu heilen.",
+        "properties": "Absorbiert negative Energien, schützt vor schädlichen Einflüssen, fördert Selbstreflexion.",
+        "color": [
+            "schwarz",
+            "schneeweiß",
+            "grün"
+        ],
+        "origin": "Mexiko, USA, Island",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 73,
+        "name": "Opal",
+        "meaning": "Opal ist ein Stein der Kreativität und des Ausdrucks. Er wird oft verwendet, um die Intuition zu stärken und die geistige Klarheit zu fördern. Opal hilft, das eigene wahre Selbst zu erkennen und innere Blockaden zu lösen.",
+        "properties": "Fördert Kreativität und Ausdruck, stärkt Intuition und geistige Klarheit, hilft bei der Lösung von Blockaden.",
+        "color": [
+            "bunt",
+            "weiß",
+            "schwarz",
+            "blau"
+        ],
+        "origin": "Australien, Mexiko, Äthiopien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 74,
+        "name": "Orpiment",
+        "meaning": "Orpiment ist ein Stein der Transformation und des Schutzes. Er wird genutzt, um emotionale Heilung zu fördern und das innere Gleichgewicht zu stabilisieren. Orpiment hilft, kreative Blockaden zu lösen und neue Ideen zu entwickeln.",
+        "properties": "Fördert Transformation und Heilung, stabilisiert das innere Gleichgewicht, löst kreative Blockaden.",
+        "color": [
+            "gelb"
+        ],
+        "origin": "China, Mexiko, Peru",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 75,
+        "name": "Peridot",
+        "meaning": "Peridot ist ein Stein der Freude und des Wohlstands. Er wird verwendet, um das Herzchakra zu öffnen und positive Energien zu fördern. Peridot hilft, negative Gedanken zu vertreiben und das emotionale Gleichgewicht wiederherzustellen.",
+        "properties": "Fördert Freude und Wohlstand, öffnet das Herzchakra, hilft bei der Lösung negativer Gedanken.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Ägypten, USA, China",
+        "rarity": "Selten"
+    },
+    {
+        "id": 76,
+        "name": "Pietersit",
+        "meaning": "Pietersit ist ein Stein der Transformation und des persönlichen Wachstums. Er hilft, den Weg zu neuen Möglichkeiten zu finden und fördert die innere Stärke. Pietersit stärkt das Vertrauen in die eigenen Fähigkeiten und bringt Klarheit in schwierige Situationen.",
+        "properties": "Fördert Transformation und persönliches Wachstum, stärkt das Vertrauen in sich selbst, bringt Klarheit.",
+        "color": [
+            "braun",
+            "blau"
+        ],
+        "origin": "Südafrika, China",
+        "rarity": "Selten"
+    },
+    {
+        "id": 77,
+        "name": "Prehnit",
+        "meaning": "Prehnit ist ein Stein der Harmonie und des Friedens. Er wird verwendet, um den Geist zu beruhigen und das Herz zu öffnen. Prehnit hilft, emotionale Blockaden zu lösen und das Gefühl von innerer Ruhe und Ausgeglichenheit zu fördern.",
+        "properties": "Fördert Harmonie und Frieden, beruhigt den Geist, öffnet das Herz, löst emotionale Blockaden.",
+        "color": [
+            "grün",
+            "gelb"
+        ],
+        "origin": "Südafrika, Australien, China",
+        "rarity": "Selten"
+    },
+    {
+        "id": 78,
+        "name": "Pyrit",
+        "meaning": "Pyrit ist ein Stein des Schutzes und der Fülle. Er stärkt das Selbstvertrauen und schützt vor negativen Einflüssen. Pyrit fördert den Erfolg und die Kreativität und hilft dabei, finanzielle und berufliche Ziele zu erreichen.",
+        "properties": "Schützt vor negativen Einflüssen, stärkt Selbstvertrauen, fördert Erfolg und Kreativität.",
+        "color": [
+            "gold",
+            "silber"
+        ],
+        "origin": "Spanien, USA, Peru",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 79,
+        "name": "Pyrop",
+        "meaning": "Pyrop ist ein kraftvoller Stein, der für seine Fähigkeiten zur Energieverstärkung und zum Schutz bekannt ist. Er hilft dabei, die eigene innere Stärke zu erkennen und sich gegen negative Einflüsse zu wappnen. Pyrop fördert Selbstbewusstsein und Durchsetzungsvermögen.",
+        "properties": "Fördert Selbstbewusstsein, schützt vor negativen Einflüssen, verstärkt innere Stärke.",
+        "color": [
+            "rot"
+        ],
+        "origin": "Tschechische Republik, Australien, Sri Lanka",
+        "rarity": "Selten"
+    },
+    {
+        "id": 80,
+        "name": "Rhodochrosit",
+        "meaning": "Rhodochrosit ist ein Stein der Liebe und des Mitgefühls. Er wird verwendet, um das Herzchakra zu öffnen und emotionale Wunden zu heilen. Rhodochrosit hilft, tief verwurzelte Ängste zu überwinden und fördert Selbstliebe und Selbstakzeptanz.",
+        "properties": "Fördert Liebe und Mitgefühl, heilt emotionale Wunden, öffnet das Herzchakra.",
+        "color": [
+            "rosa",
+            "rot"
+        ],
+        "origin": "Argentinien, Südafrika",
+        "rarity": "Selten"
+    },
+    {
+        "id": 81,
+        "name": "Rhodonit",
+        "meaning": "Rhodonit ist ein Stein der Heilung und des Gleichgewichts. Er wird verwendet, um emotionale Verletzungen zu heilen und das Herzchakra zu öffnen. Rhodonit hilft, inneren Frieden zu finden und die Beziehung zu sich selbst und anderen zu stärken.",
+        "properties": "Heilt emotionale Verletzungen, öffnet das Herzchakra, fördert inneren Frieden.",
+        "color": [
+            "rosa",
+            "rot"
+        ],
+        "origin": "Australien, Brasilien, Russland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 82,
+        "name": "Rosenquarz",
+        "meaning": "Rosenquarz ist der Stein der Liebe und des Friedens. Er fördert bedingungslose Liebe, Harmonie und Vertrauen. Rosenquarz hilft dabei, das Herz zu öffnen und emotionale Blockaden zu lösen, um eine tiefere Verbindung zu sich selbst und anderen zu schaffen.",
+        "properties": "Fördert bedingungslose Liebe, Harmonie und Vertrauen, öffnet das Herz, löst emotionale Blockaden.",
+        "color": [
+            "rosa",
+            "klar",
+            "hell"
+        ],
+        "origin": "Brasilien, Südafrika, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 83,
+        "name": "Rubin",
+        "meaning": "Rubin ist der Stein der Leidenschaft, Energie und Vitalität. Er fördert körperliche Gesundheit und emotionales Wohlbefinden. Rubin hilft, die Lebensenergie zu steigern und schützt vor negativen Einflüssen.",
+        "properties": "Fördert Leidenschaft, Energie und Vitalität, steigert Lebensenergie, schützt vor negativen Einflüssen.",
+        "color": [
+            "rot"
+        ],
+        "origin": "Myanmar, Indien, Sri Lanka",
+        "rarity": "Selten"
+    },
+    {
+        "id": 84,
+        "name": "Saphir",
+        "meaning": "Saphir ist ein Stein der Weisheit und des geistigen Friedens. Er wird oft verwendet, um das Denken zu klären und spirituelle Einsichten zu fördern. Saphir unterstützt die persönliche und geistige Entwicklung und bringt innere Ruhe und Harmonie.",
+        "properties": "Fördert Weisheit und geistigen Frieden, klärt das Denken, unterstützt spirituelle Entwicklung.",
+        "color": [
+            "blau",
+            "grün",
+            "gelb",
+            "pink",
+            "schwarz"
+        ],
+        "origin": "Sri Lanka, Myanmar, Thailand",
+        "rarity": "Selten"
+    },
+    {
+        "id": 85,
+        "name": "Selenit",
+        "meaning": "Selenit ist ein Stein der Klarheit und des Lichts. Er fördert die spirituelle Entwicklung und hilft, das Bewusstsein zu erweitern. Selenit bringt inneren Frieden und schützt vor negativen Energien.",
+        "properties": "Fördert Klarheit und Licht, unterstützt spirituelle Entwicklung, schützt vor negativen Energien.",
+        "color": [
+            "weiß",
+            "golden"
+        ],
+        "origin": "Marokko, USA, Mexiko",
+        "rarity": "Selten"
+    },
+    {
+        "id": 86,
+        "name": "Seraphinit",
+        "meaning": "Seraphinit ist ein Stein der spirituellen Erhebung und Heilung. Er wird verwendet, um die Verbindung zum Höheren Selbst zu stärken und den Körper von negativen Energien zu befreien. Seraphinit fördert die Selbstheilung und das Bewusstsein für die universelle Liebe.",
+        "properties": "Fördert spirituelle Erhebung und Heilung, stärkt die Verbindung zum Höheren Selbst, befreit vom negativen Energien.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Russland",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 87,
+        "name": "Serpentin",
+        "meaning": "Serpentin ist ein Stein der Erdung und Heilung. Er wird verwendet, um innere Blockaden zu lösen und das spirituelle Wachstum zu fördern. Serpentin hilft, die Verbindung zur Erde zu stärken und fördert die Reinigung des Körpers und Geistes.",
+        "properties": "Fördert Erdung und Heilung, löst innere Blockaden, stärkt die Verbindung zur Erde.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Brasilien, USA, Südafrika",
+        "rarity": "Selten"
+    },
+    {
+        "id": 88,
+        "name": "Sodalith",
+        "meaning": "Sodalith ist ein Stein der Wahrheit und des Verstandes. Er hilft, den Geist zu klären und die Intuition zu stärken. Sodalith fördert eine tiefere Einsicht in die eigene Wahrheit und unterstützt die Kommunikation und den Austausch von Ideen.",
+        "properties": "Fördert Wahrheit und Verstand, stärkt die Intuition, unterstützt Kommunikation.",
+        "color": [
+            "blau",
+            "grau",
+            "weiß"
+        ],
+        "origin": "Brasilien, Kanada, Namibia",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 89,
+        "name": "Sugilith",
+        "meaning": "Sugilith ist ein Stein der spirituellen Heilung und Transformation. Er hilft dabei, emotionale Blockaden zu lösen und das Herzchakra zu öffnen. Sugilith fördert die Liebe und den inneren Frieden und schützt vor negativen Energien.",
+        "properties": "Fördert spirituelle Heilung und Transformation, löst emotionale Blockaden, schützt vor negativen Energien.",
+        "color": [
+            "violett"
+        ],
+        "origin": "Südafrika, Japan",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 90,
+        "name": "Sunstone",
+        "meaning": "Sunstone ist ein Stein der Freude und des Optimismus. Er fördert das Gefühl von Wohlstand und Glück und unterstützt das emotionale Gleichgewicht. Sunstone hilft, die eigene Kreativität zu entfalten und positive Energien in das Leben zu ziehen.",
+        "properties": "Fördert Freude und Optimismus, unterstützt das emotionale Gleichgewicht, entfaltet Kreativität.",
+        "color": [
+            "orange",
+            "rot"
+        ],
+        "origin": "Norwegen, USA, Indien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 91,
+        "name": "Tanzanit",
+        "meaning": "Tanzanit ist ein Stein der Transformation und spirituellen Entwicklung. Er wird verwendet, um das Bewusstsein zu erweitern und die Verbindung zu höheren Ebenen des Geistes zu stärken. Tanzanit fördert den Zugang zu tieferen spirituellen Einsichten.",
+        "properties": "Fördert Transformation und spirituelle Entwicklung, erweitert das Bewusstsein, stärkt die Verbindung zu höheren Ebenen des Geistes.",
+        "color": [
+            "violett",
+            "blau"
+        ],
+        "origin": "Tansania",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 92,
+        "name": "Tektit",
+        "meaning": "Tektit ist ein Stein der Erdung und Transformation. Er hilft dabei, negative Energien zu neutralisieren und das geistige Gleichgewicht wiederherzustellen. Tektit wird oft verwendet, um die Intuition zu stärken und spirituelle Erkenntnisse zu fördern.",
+        "properties": "Neutralisiert negative Energien, fördert Erdung, stärkt die Intuition.",
+        "color": [
+            "schwarz",
+            "weiß"
+        ],
+        "origin": "Tschechien, Indonesien, Australien",
+        "rarity": "Selten"
+    },
+    {
+        "id": 93,
+        "name": "Topas",
+        "meaning": "Topas ist ein Stein der Klarheit und des inneren Friedens. Er fördert die Kommunikation und die persönliche Entfaltung. Topas hilft, emotionalen Kummer zu heilen und das Herz zu öffnen, während er gleichzeitig die Verbindung zum spirituellen Selbst stärkt.",
+        "properties": "Fördert Klarheit und inneren Frieden, unterstützt Kommunikation und persönliche Entfaltung.",
+        "color": [
+            "gelb",
+            "blau",
+            "pink"
+        ],
+        "origin": "Sri Lanka, Brasilien, Russland",
+        "rarity": "Selten"
+    },
+    {
+        "id": 94,
+        "name": "Turmalin",
+        "meaning": "Turmalin ist ein Stein der Schwingung und des Schutzes. Er wird verwendet, um das Energiesystem des Körpers zu harmonisieren und vor negativen Einflüssen zu schützen. Turmalin unterstützt das emotionale Gleichgewicht und hilft, die Aura zu reinigen.",
+        "properties": "Harmonisiert das Energiesystem, schützt vor negativen Einflüssen, hilft beim emotionalen Gleichgewicht.",
+        "color": [
+            "mehrfarbig",
+            "rosa",
+            "grün",
+            "schwarz"
+        ],
+        "origin": "Brasilien, Sri Lanka, USA",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 95,
+        "name": "Ulexit",
+        "meaning": "Ulexit ist ein Stein des geistigen Wachstums und der Klarheit. Er fördert die Kommunikation mit höheren Dimensionen und hilft, die Intuition zu stärken. Ulexit ist besonders nützlich für die spirituelle Weiterentwicklung und die Förderung von innerer Ruhe.",
+        "properties": "Fördert geistiges Wachstum und Klarheit, stärkt die Intuition, unterstützt spirituelle Entwicklung.",
+        "color": [
+            "weiß"
+        ],
+        "origin": "USA, Mexiko, Kanada",
+        "rarity": "Selten"
+    },
+    {
+        "id": 96,
+        "name": "Unakit",
+        "meaning": "Unakit ist ein Stein der Heilung und des Ausgleichs. Er wird verwendet, um emotionale Blockaden zu lösen und das innere Gleichgewicht zu fördern. Unakit hilft dabei, die Verbindung zu den eigenen Gefühlen zu stärken und unterstützt die Heilung von physischen und emotionalen Wunden.",
+        "properties": "Fördert Heilung und Ausgleich, löst emotionale Blockaden, stärkt die Verbindung zu den eigenen Gefühlen.",
+        "color": [
+            "grün"
+        ],
+        "origin": "USA, Südafrika",
+        "rarity": "Selten"
+    },
+    {
+        "id": 97,
+        "name": "Uvarovit",
+        "meaning": "Uvarovit ist ein Stein des Glücks und des Wohlstands. Er stärkt das Selbstbewusstsein und fördert den Fluss positiver Energien. Uvarovit hilft dabei, den Weg für neue Chancen zu ebnen und unterstützt dabei, Ziele zu erreichen und Erfolg zu manifestieren.",
+        "properties": "Fördert Glück und Wohlstand, stärkt Selbstbewusstsein, ebnet den Weg für neue Chancen.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Russland, Kanada",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 98,
+        "name": "Verdit",
+        "meaning": "Verdit ist ein Stein des Schutzes und der Heilung. Er hilft, sich von negativen Energien zu befreien und stärkt das geistige und emotionale Wohlbefinden. Verdit fördert innere Ruhe und ein Gefühl der Geborgenheit.",
+        "properties": "Schützt vor negativen Energien, stärkt das geistige und emotionale Wohlbefinden, fördert innere Ruhe.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Brasilien, Südafrika",
+        "rarity": "Sehr selten"
+    },
+    {
+        "id": 99,
+        "name": "Vesuvianit",
+        "meaning": "Vesuvianit ist ein Stein der Transformation und des Wandels. Er fördert die persönliche Entwicklung und hilft dabei, Hindernisse zu überwinden. Vesuvianit unterstützt die Heilung von Verletzungen und bringt Klarheit in schwierige Entscheidungen.",
+        "properties": "Fördert Transformation und Wandel, unterstützt persönliche Entwicklung, hilft, Hindernisse zu überwinden.",
+        "color": [
+            "grün"
+        ],
+        "origin": "Italien, Kanada, Sri Lanka",
+        "rarity": "Selten"
+    },
+    {
+        "id": 100,
+        "name": "Wüstensandstein",
+        "meaning": "Wüstensandstein ist ein Stein der Erdung und der Stabilität. Er hilft, eine starke Verbindung zur Erde herzustellen und das Selbstvertrauen zu stärken. Wüstensandstein fördert das Gefühl von Ruhe und Gelassenheit in stressigen Situationen.",
+        "properties": "Fördert Erdung und Stabilität, stärkt Selbstvertrauen, bringt Ruhe und Gelassenheit.",
+        "color": [
+            "braun"
+        ],
+        "origin": "Sahara, USA, Australien",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 101,
+        "name": "Zirkon",
+        "meaning": "Zirkon ist ein Stein der Klarheit und der Wahrheit. Er hilft dabei, das innere Licht zu erwecken und die geistige Wahrnehmung zu schärfen. Zirkon unterstützt dabei, den Weg der spirituellen Entwicklung zu finden und das Bewusstsein zu erweitern.",
+        "properties": "Fördert Klarheit und Wahrheit, schärft die geistige Wahrnehmung, erweitert das Bewusstsein.",
+        "color": [
+            "grün",
+            "blau",
+            "farblos"
+        ],
+        "origin": "Sri Lanka, Australien, Kambodscha",
+        "rarity": "Häufig"
+    },
+    {
+        "id": 102,
+        "name": "Zoisit",
+        "meaning": "Zoisit ist ein Stein des Lebens und der Freude. Er fördert das Wachstum und die Erneuerung sowohl auf physischer als auch auf spiritueller Ebene. Zoisit hilft, emotionale Blockaden zu lösen und bringt positive Energie in das Leben.",
+        "properties": "Fördert Wachstum und Erneuerung, löst emotionale Blockaden, bringt positive Energie.",
+        "color": [
+            "grün",
+            "blau",
+            "violett",
+            "rosa"
+        ],
+        "origin": "Tansania, Kenia, USA",
+        "rarity": "Selten"
+    }
+]
